@@ -15,3 +15,23 @@ Durchschnittliche Bearbeitungszeit für Abteilung „Produktion“ UND Jahr 2024
 Summe der Menge (Spalte G) aller Vorgänge, deren Artikel laut Stammdaten der Kategorie „Reinigung“ zugeordnet ist.
 
 Summe der Bearbeitungszeit für Abteilung „Lager“ UND Menge größer als der Durchschnitt aller Mengen.
+
+## Screenshots
+
+![Auswertung 1](auswertung1.png)
+
+![Auswertung 2](auswertung2.png)
+
+![Auswertung 3](auswertung3.png)
+
+![Auswertung 4](auswertung4.png)
+
+![Auswertung 5](auswertung5.png)
+
+![Auswertung 6](auswertung6.png)
+
+![Auswertung 7](auswertung7.png)
+
+![Auswertung 8](auswertung8.png)
+
+![Auswertung 9](auswertung9.png)
