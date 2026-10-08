@@ -1,5 +1,4 @@
-# Bedingte_Aggregation
-Auswertungen von Stammdaten mit SUMMEWENN(S) · ZÄHLENWENN(S) · MITTELWERTWENN(S) · Kombination mit SVERWEIS
+# Bedingte_Aggregation (Auswertungen von Stammdaten mit SUMMEWENN(S) · ZÄHLENWENN(S) · MITTELWERTWENN(S) · Kombination mit SVERWEIS)
 
 Summe der Bearbeitungszeit (Spalte F) aller Vorgänge der Abteilung „Lager“.
 
